@@ -42,15 +42,14 @@ I enjoy building digital experiences and practical solutions for entrepreneurs, 
 
 ## <span style="color:#FF3030">⚙️ TECH STACK</span>
 
+
+## 🔴 📊 GITHUB STATISTICS
+
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-0B0B0B?style=for-the-badge&logo=html5&logoColor=FF3030)
-![CSS3](https://img.shields.io/badge/CSS3-0B0B0B?style=for-the-badge&logo=css3&logoColor=FF3030)
-![JavaScript](https://img.shields.io/badge/JavaScript-0B0B0B?style=for-the-badge&logo=javascript&logoColor=FF3030)
-![React](https://img.shields.io/badge/React-0B0B0B?style=for-the-badge&logo=react&logoColor=FF3030)
-![PHP](https://img.shields.io/badge/PHP-0B0B0B?style=for-the-badge&logo=php&logoColor=FF3030)
-![MySQL](https://img.shields.io/badge/MySQL-0B0B0B?style=for-the-badge&logo=mysql&logoColor=FF3030)
-![Git](https://img.shields.io/badge/Git-0B0B0B?style=for-the-badge&logo=git&logoColor=FF3030)
+<img src="https://github-readme-stats.vercel.app/api?username=santiago-pabon&show_icons=true&hide_border=true&bg_color=0B0B0B&title_color=FF3030&icon_color=FF3030&text_color=FFFFFF" alt="GitHub Stats" width="49%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiago-pabon&layout=compact&hide_border=true&bg_color=0B0B0B&title_color=FF3030&text_color=FFFFFF" alt="Most Used Languages" width="49%">
 
 </div>
 
